@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Santiago Monrroy</h1>
+<h1 align="center">Hi 👋, I'm Santiago</h1>
 <h3 align="center">A passionate Junior Developer from Colombia 🇨🇴</h3>
 
 - 🔭 I’m currently working on [Beer Inventory](https://github.com/MnTic3/BuenosAiresApp)
