@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
 <h3 align="center">A passionate Junior Developer from Colombia 🇨🇴</h3>
 
-- 🔭 I’m currently working on [Beer Inventory](https://github.com/MnTic3/BuenosAiresApp)
 
-- 🌱 I’m currently learning **NodeJs, Express, Flutter**
-
-- 📫 How to reach me **santilopez397@gmail.com**
-
-<h3>About me</h3>
 
 ```javascript
 const sanmon12 = {
@@ -15,18 +9,25 @@ const sanmon12 = {
    code: [Javascript, HTML, CSS, Kotlin ],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+         js: ["React"],
+         css: ["Tailwind", "Material Design"]
       },
       backEnd: {
          js: ["Node", "Express"]
       },
-      databases: ["MongoDB", "mySQL", "SQLServer"]
+      databases: ["MongoDB", "mySQL"]
    },
    currentOccupation: ["I'm currently finished my studies, open for job opportunities where do my assistantship"],
-   challenge: "",
+   
 };
 ```
+
+
+- 🔭 I’m currently working on [Beer Inventory](https://github.com/MnTic3/BuenosAiresApp)
+
+- 🌱 I’m currently learning **NodeJs, Express, Flutter**
+
+- 📫 How to reach me **santilopez397@gmail.com**
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -50,9 +51,7 @@ const sanmon12 = {
 <i>🌎 You can find me!</i><br>
 <a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+<a href="https://www.twitter.com/san_mon12" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white" alt="twitter"></a>
 
 </div>
 <!--
