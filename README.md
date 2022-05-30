@@ -23,11 +23,11 @@ const sanmon12 = {
 ```
 
 
-- 🔭 I’m currently working on [Beer Inventory](https://github.com/MnTic3/BuenosAiresApp)
+- 🔭 I’m currently working on [Beer Inventory](https://github.com/MnTic3/BuenosAiresApp) 🔨
 
-- 🌱 I’m currently learning **NodeJs, Express, Flutter**
+- 🌱 I’m currently learning **NodeJs, Express, Flutter** 📚
 
-- 📫 How to reach me `santilopez397@gmail.com`
+- 📫 You can reach me `santilopez397@gmail.com` 👀
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
