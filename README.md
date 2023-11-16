@@ -10,22 +10,19 @@ const sanmon12 = {
    technologies: {
       frontEnd: {
          js: ["React"],
-         css: ["Tailwind", "Material Design"]
+         css: ["Tailwind"]
       },
       backEnd: {
          js: ["Node", "Express"]
       },
       databases: ["MongoDB", "mySQL"]
-   },
-   currentOccupation: ["I'm currently finished my studies, open for job opportunities where do my assistantship"],
+   }
    
 };
 ```
 
 
 - 👨‍💻 All of my projects are available at [https://santiagomonrroy.vercel.app](https://santiagomonrroy.vercel.app)
-
-- 🔭 I’m currently working on [Beer Inventory](https://github.com/MnTic3/BuenosAiresApp) 🔨
 
 - 🌱 I’m currently learning **NodeJs, Express, Flutter** 📚
 
